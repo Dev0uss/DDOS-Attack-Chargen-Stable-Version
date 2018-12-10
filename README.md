@@ -18,6 +18,6 @@ gcc -pthread Chargen.c -o chargen
 ./Chargen.c IP 1812 chargen.txt 2 -1 3600
 
 Other Examples:
-# ./chargen TEST-IP 80 chargenliste.txt 2 -1 3600
-# ./chargen TEST-IP 80 chargenliste.txt 1 -1 120
-# ./chargen DNS-IP 53 chargenliste.txt 1 -1 120
+# ./Chargen TEST-IP 80 chargenliste.txt 2 -1 3600
+# ./Chargen TEST-IP 80 chargenliste.txt 1 -1 120
+# ./Chargen DNS-IP 53 chargenliste.txt 1 -1 120
