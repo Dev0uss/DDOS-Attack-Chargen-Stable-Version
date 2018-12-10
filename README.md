@@ -6,6 +6,7 @@ Chargen.c
 apt-get install gcc
 
 -git clone https://github.com/Dev0uss/DDOS-Attack-Chargen-Stable-Version
+
 -cd DDOS-Attack-Chargen-Stable-Version
  
 -Compilation:
