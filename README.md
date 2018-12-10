@@ -10,9 +10,11 @@ apt-get install gcc
 -cd DDOS-Attack-Chargen-Stable-Version
  
 -Compilation:
+
 gcc -pthread Chargen.c -o chargen
 
--Execute
+-Execute:
+
 ./Chargen.c IP 1812 chargen.txt 2 -1 3600
 
 Other Examples:
